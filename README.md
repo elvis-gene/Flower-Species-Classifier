@@ -29,4 +29,4 @@ The following basic usage will help you run the application with _default argume
 * Basic usage: python predict.py
     * Return top KK most likely classes: python predict.py input checkpoint --top_k 3
 
-***_The certificate I obtained after the completion of this projection at [Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) can be found [here](https://graduation.udacity.com/confirm/MEC3HUP)_***
+#### ***_The certificate I obtained after the completion of this projection at [Udacity](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) can be found [here](https://graduation.udacity.com/confirm/MEC3HUP)_***
